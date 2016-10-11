@@ -1,0 +1,16 @@
+References:
+
+1. http://man7.org/linux/man-pages/man3/makecontext.3.html(Use make context, swap context)
+
+2. http://pubs.opengroup.org/onlinepubs/007908799/xsh/getcontext.html(Getcontext, setcontext)
+
+3. http://www.tutorialspoint.com/c_standard_library/c_function_perror.htm(Perror Functon)
+
+4. http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/(How to Create A Makefile)
+
+5. http://pubs.opengroup.org/onlinepubs/007908799/xsh/ucontext.h.html(ucontext.t library)
+
+6. Stackoverflow.com to understand how to use context functions.
+
+Fellow Students:
+Kunal Kapoor and Prakhar Malhotra for testing the code. (Test cases and basic functionality of thread library)
